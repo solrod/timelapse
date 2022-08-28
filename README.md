@@ -22,4 +22,3 @@ In terminal write:
 
 Change variables in timelapse.py before start to fit the need.  
   
-Find gif file in */home/pi* folder
